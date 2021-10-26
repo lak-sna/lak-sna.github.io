@@ -5,3 +5,11 @@
 #organizers img {
 	width: 100%;
 }
+
+#organizers .probootstrap-block-image  {
+	background-color: transparent;
+}
+
+.probootstrap-footer {
+	background-color: white;
+}
