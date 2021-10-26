@@ -1,3 +1,7 @@
 #organizers .probootstrap-block-image .text {
 	padding: 0;
 }
+
+#organizers img {
+	width: 100%;
+}
